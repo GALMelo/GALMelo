@@ -1,5 +1,4 @@
 ## Olá me chamo Gabriel, atualmente trabalho com back-end e estudante de S.I. pelo IFAL.
-teste
 <div align="center">
   <a href="https://github.com/https://github.com/GALMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GALMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
