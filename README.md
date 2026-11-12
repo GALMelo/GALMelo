@@ -2,8 +2,8 @@
   <img src="./assets/banner.png" alt="GALMelo | Back-end Developer" width="100%" />
 </p><h2 align="center">Olá, eu sou o Gabriel! 👋</h2><p align="center">
   Desenvolvedor Back-end • Formado em Sistemas de Informação pelo IFAL
-</p>Sou desenvolvedor back-end, apaixonado por tecnologia e por construir soluções que fazem a diferença. No dia a dia, trabalho com desenvolvimento de APIs e aplicações, sempre buscando aprender e evoluir.
-
+</p>Sou desenvolvedor back-end, apaixonado por tecnologia e por construir soluções que fazem a diferença.<br> No dia a dia, trabalho com desenvolvimento de APIs e aplicações, sempre buscando aprender e evoluir.
+<br><br>
 Fora do código, gosto de jogos e jiu-jitsu. 🎮 🥋
 🛠️ Tecnologias
 <p>
