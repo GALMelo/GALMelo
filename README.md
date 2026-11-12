@@ -1,24 +1,16 @@
-## Olá me chamo Gabriel, atualmente trabalho com back-end e estudante de S.I. pelo IFAL.
-<div align="center">
-  <a href="https://github.com/https://github.com/GALMelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GALMelo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-</div>
-  
-## Contato:
-  
-<div> 
-  <a href = "https://twitter.com/DisneyGalm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.aflins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  
-  
-## Jr Back-end developer:
-https://www.sonda.com/pt
+<p align="center">
+  <img src="./assets/banner.png" alt="GALMelo | Back-end Developer" width="100%" />
+</p><h2 align="center">Olá, eu sou o Gabriel! 👋</h2><p align="center">
+  Desenvolvedor Back-end • Formado em Sistemas de Informação pelo IFAL
+</p>Sou desenvolvedor back-end, apaixonado por tecnologia e por construir soluções que fazem a diferença. No dia a dia, trabalho com desenvolvimento de APIs e aplicações, sempre buscando aprender e evoluir.
+
+Fora do código, gosto de jogos e jiu-jitsu. 🎮 🥋
+🛠️ Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,ruby,rails,git" alt="Java, Spring, JavaScript, TypeScript, Node.js, Ruby, Ruby on Rails e Git" />
+</p>📫 Contato
+<p>
+  <a href="mailto:gabriel.aflins@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://twitter.com/DisneyGalm"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
+  <a href="https://github.com/GALMelo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
